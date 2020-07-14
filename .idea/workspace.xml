@@ -37,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594728903406</updated>
-      <workItem from="1594728904632" duration="482000" />
+      <workItem from="1594728904632" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594729173266</created>
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594729294878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test1">
+      <created>1594729397892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594729397892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,18 +72,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594729293809">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594729396867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594729293809" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594729396867" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1594729064466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594729064466" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594729186747">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594729411335">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594729186747" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594729411335" />
     <state x="568" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594729365804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
